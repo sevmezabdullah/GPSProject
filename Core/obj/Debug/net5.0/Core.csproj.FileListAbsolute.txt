@@ -1,0 +1,60 @@
+C:\Users\karab\Desktop\RentACar\Core\bin\Debug\net5.0\Core.deps.json
+C:\Users\karab\Desktop\RentACar\Core\bin\Debug\net5.0\Core.dll
+C:\Users\karab\Desktop\RentACar\Core\bin\Debug\net5.0\ref\Core.dll
+C:\Users\karab\Desktop\RentACar\Core\bin\Debug\net5.0\Core.pdb
+C:\Users\karab\Desktop\RentACar\Core\obj\Debug\net5.0\Core.csproj.AssemblyReference.cache
+C:\Users\karab\Desktop\RentACar\Core\obj\Debug\net5.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karab\Desktop\RentACar\Core\obj\Debug\net5.0\Core.AssemblyInfoInputs.cache
+C:\Users\karab\Desktop\RentACar\Core\obj\Debug\net5.0\Core.AssemblyInfo.cs
+C:\Users\karab\Desktop\RentACar\Core\obj\Debug\net5.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\karab\Desktop\RentACar\Core\obj\Debug\net5.0\Core.dll
+C:\Users\karab\Desktop\RentACar\Core\obj\Debug\net5.0\ref\Core.dll
+C:\Users\karab\Desktop\RentACar\Core\obj\Debug\net5.0\Core.pdb
+C:\Users\383585\Downloads\RentACar\Core\bin\Debug\net5.0\Core.deps.json
+C:\Users\383585\Downloads\RentACar\Core\bin\Debug\net5.0\Core.dll
+C:\Users\383585\Downloads\RentACar\Core\bin\Debug\net5.0\Core.pdb
+C:\Users\383585\Downloads\RentACar\Core\obj\Debug\net5.0\Core.csproj.AssemblyReference.cache
+C:\Users\383585\Downloads\RentACar\Core\obj\Debug\net5.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\383585\Downloads\RentACar\Core\obj\Debug\net5.0\Core.AssemblyInfoInputs.cache
+C:\Users\383585\Downloads\RentACar\Core\obj\Debug\net5.0\Core.AssemblyInfo.cs
+C:\Users\383585\Downloads\RentACar\Core\obj\Debug\net5.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\383585\Downloads\RentACar\Core\obj\Debug\net5.0\Core.dll
+C:\Users\383585\Downloads\RentACar\Core\obj\Debug\net5.0\refint\Core.dll
+C:\Users\383585\Downloads\RentACar\Core\obj\Debug\net5.0\Core.pdb
+C:\Users\383585\Downloads\RentACar\Core\obj\Debug\net5.0\ref\Core.dll
+C:\Users\383585\Desktop\GPSProject\Core\bin\Debug\net5.0\Core.deps.json
+C:\Users\383585\Desktop\GPSProject\Core\bin\Debug\net5.0\Core.dll
+C:\Users\383585\Desktop\GPSProject\Core\bin\Debug\net5.0\Core.pdb
+C:\Users\383585\Desktop\GPSProject\Core\obj\Debug\net5.0\Core.csproj.AssemblyReference.cache
+C:\Users\383585\Desktop\GPSProject\Core\obj\Debug\net5.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\383585\Desktop\GPSProject\Core\obj\Debug\net5.0\Core.AssemblyInfoInputs.cache
+C:\Users\383585\Desktop\GPSProject\Core\obj\Debug\net5.0\Core.AssemblyInfo.cs
+C:\Users\383585\Desktop\GPSProject\Core\obj\Debug\net5.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\383585\Desktop\GPSProject\Core\obj\Debug\net5.0\Core.dll
+C:\Users\383585\Desktop\GPSProject\Core\obj\Debug\net5.0\refint\Core.dll
+C:\Users\383585\Desktop\GPSProject\Core\obj\Debug\net5.0\Core.pdb
+C:\Users\383585\Desktop\GPSProject\Core\obj\Debug\net5.0\ref\Core.dll
+C:\Users\karab\Desktop\GPSProject\Core\bin\Debug\net5.0\Core.deps.json
+C:\Users\karab\Desktop\GPSProject\Core\bin\Debug\net5.0\Core.dll
+C:\Users\karab\Desktop\GPSProject\Core\bin\Debug\net5.0\ref\Core.dll
+C:\Users\karab\Desktop\GPSProject\Core\bin\Debug\net5.0\Core.pdb
+C:\Users\karab\Desktop\GPSProject\Core\obj\Debug\net5.0\Core.csproj.AssemblyReference.cache
+C:\Users\karab\Desktop\GPSProject\Core\obj\Debug\net5.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karab\Desktop\GPSProject\Core\obj\Debug\net5.0\Core.AssemblyInfoInputs.cache
+C:\Users\karab\Desktop\GPSProject\Core\obj\Debug\net5.0\Core.AssemblyInfo.cs
+C:\Users\karab\Desktop\GPSProject\Core\obj\Debug\net5.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\karab\Desktop\GPSProject\Core\obj\Debug\net5.0\Core.dll
+C:\Users\karab\Desktop\GPSProject\Core\obj\Debug\net5.0\ref\Core.dll
+C:\Users\karab\Desktop\GPSProject\Core\obj\Debug\net5.0\Core.pdb
+E:\Flaş Yedek 2\GPSProject\Core\bin\Debug\net5.0\Core.deps.json
+E:\Flaş Yedek 2\GPSProject\Core\bin\Debug\net5.0\Core.dll
+E:\Flaş Yedek 2\GPSProject\Core\bin\Debug\net5.0\Core.pdb
+E:\Flaş Yedek 2\GPSProject\Core\obj\Debug\net5.0\Core.csproj.AssemblyReference.cache
+E:\Flaş Yedek 2\GPSProject\Core\obj\Debug\net5.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Flaş Yedek 2\GPSProject\Core\obj\Debug\net5.0\Core.AssemblyInfoInputs.cache
+E:\Flaş Yedek 2\GPSProject\Core\obj\Debug\net5.0\Core.AssemblyInfo.cs
+E:\Flaş Yedek 2\GPSProject\Core\obj\Debug\net5.0\Core.csproj.CoreCompileInputs.cache
+E:\Flaş Yedek 2\GPSProject\Core\obj\Debug\net5.0\Core.dll
+E:\Flaş Yedek 2\GPSProject\Core\obj\Debug\net5.0\refint\Core.dll
+E:\Flaş Yedek 2\GPSProject\Core\obj\Debug\net5.0\Core.pdb
+E:\Flaş Yedek 2\GPSProject\Core\obj\Debug\net5.0\ref\Core.dll

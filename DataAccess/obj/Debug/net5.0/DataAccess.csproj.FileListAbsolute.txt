@@ -1,0 +1,85 @@
+C:\Users\karab\Desktop\RentACar\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+C:\Users\karab\Desktop\RentACar\DataAccess\bin\Debug\net5.0\DataAccess.dll
+C:\Users\karab\Desktop\RentACar\DataAccess\bin\Debug\net5.0\ref\DataAccess.dll
+C:\Users\karab\Desktop\RentACar\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\karab\Desktop\RentACar\DataAccess\bin\Debug\net5.0\Core.dll
+C:\Users\karab\Desktop\RentACar\DataAccess\bin\Debug\net5.0\Entities.dll
+C:\Users\karab\Desktop\RentACar\DataAccess\bin\Debug\net5.0\Entities.pdb
+C:\Users\karab\Desktop\RentACar\DataAccess\bin\Debug\net5.0\Core.pdb
+C:\Users\karab\Desktop\RentACar\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\karab\Desktop\RentACar\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karab\Desktop\RentACar\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\karab\Desktop\RentACar\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+C:\Users\karab\Desktop\RentACar\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\karab\Desktop\RentACar\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+C:\Users\karab\Desktop\RentACar\DataAccess\obj\Debug\net5.0\DataAccess.dll
+C:\Users\karab\Desktop\RentACar\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+C:\Users\karab\Desktop\RentACar\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+C:\Users\383585\Downloads\RentACar\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+C:\Users\383585\Downloads\RentACar\DataAccess\bin\Debug\net5.0\DataAccess.dll
+C:\Users\383585\Downloads\RentACar\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\383585\Downloads\RentACar\DataAccess\bin\Debug\net5.0\Core.dll
+C:\Users\383585\Downloads\RentACar\DataAccess\bin\Debug\net5.0\Entities.dll
+C:\Users\383585\Downloads\RentACar\DataAccess\bin\Debug\net5.0\Entities.pdb
+C:\Users\383585\Downloads\RentACar\DataAccess\bin\Debug\net5.0\Core.pdb
+C:\Users\383585\Downloads\RentACar\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\383585\Downloads\RentACar\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\383585\Downloads\RentACar\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\383585\Downloads\RentACar\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+C:\Users\383585\Downloads\RentACar\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\383585\Downloads\RentACar\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+C:\Users\383585\Downloads\RentACar\DataAccess\obj\Debug\net5.0\DataAccess.dll
+C:\Users\383585\Downloads\RentACar\DataAccess\obj\Debug\net5.0\refint\DataAccess.dll
+C:\Users\383585\Downloads\RentACar\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+C:\Users\383585\Downloads\RentACar\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+C:\Users\383585\Desktop\GPSProject\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\383585\Desktop\GPSProject\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\383585\Desktop\GPSProject\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\383585\Desktop\GPSProject\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+C:\Users\383585\Desktop\GPSProject\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\383585\Desktop\GPSProject\DataAccess\obj\Debug\net5.0\DataAccess.dll
+C:\Users\383585\Desktop\GPSProject\DataAccess\obj\Debug\net5.0\refint\DataAccess.dll
+C:\Users\383585\Desktop\GPSProject\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+C:\Users\383585\Desktop\GPSProject\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+C:\Users\383585\Desktop\GPSProject\DataAccess\bin\Debug\net5.0\DataAccess.dll
+C:\Users\383585\Desktop\GPSProject\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\383585\Desktop\GPSProject\DataAccess\bin\Debug\net5.0\Core.dll
+C:\Users\383585\Desktop\GPSProject\DataAccess\bin\Debug\net5.0\Entities.dll
+C:\Users\383585\Desktop\GPSProject\DataAccess\bin\Debug\net5.0\Entities.pdb
+C:\Users\383585\Desktop\GPSProject\DataAccess\bin\Debug\net5.0\Core.pdb
+C:\Users\383585\Desktop\GPSProject\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+C:\Users\383585\Desktop\GPSProject\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+C:\Users\karab\Desktop\GPSProject\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+C:\Users\karab\Desktop\GPSProject\DataAccess\bin\Debug\net5.0\DataAccess.dll
+C:\Users\karab\Desktop\GPSProject\DataAccess\bin\Debug\net5.0\ref\DataAccess.dll
+C:\Users\karab\Desktop\GPSProject\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\karab\Desktop\GPSProject\DataAccess\bin\Debug\net5.0\Core.dll
+C:\Users\karab\Desktop\GPSProject\DataAccess\bin\Debug\net5.0\Entities.dll
+C:\Users\karab\Desktop\GPSProject\DataAccess\bin\Debug\net5.0\Entities.pdb
+C:\Users\karab\Desktop\GPSProject\DataAccess\bin\Debug\net5.0\Core.pdb
+C:\Users\karab\Desktop\GPSProject\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\karab\Desktop\GPSProject\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karab\Desktop\GPSProject\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\karab\Desktop\GPSProject\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+C:\Users\karab\Desktop\GPSProject\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\karab\Desktop\GPSProject\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+C:\Users\karab\Desktop\GPSProject\DataAccess\obj\Debug\net5.0\DataAccess.dll
+C:\Users\karab\Desktop\GPSProject\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+C:\Users\karab\Desktop\GPSProject\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+E:\Flaş Yedek 2\GPSProject\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+E:\Flaş Yedek 2\GPSProject\DataAccess\bin\Debug\net5.0\DataAccess.dll
+E:\Flaş Yedek 2\GPSProject\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+E:\Flaş Yedek 2\GPSProject\DataAccess\bin\Debug\net5.0\Core.dll
+E:\Flaş Yedek 2\GPSProject\DataAccess\bin\Debug\net5.0\Entities.dll
+E:\Flaş Yedek 2\GPSProject\DataAccess\bin\Debug\net5.0\Entities.pdb
+E:\Flaş Yedek 2\GPSProject\DataAccess\bin\Debug\net5.0\Core.pdb
+E:\Flaş Yedek 2\GPSProject\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+E:\Flaş Yedek 2\GPSProject\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\Flaş Yedek 2\GPSProject\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+E:\Flaş Yedek 2\GPSProject\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+E:\Flaş Yedek 2\GPSProject\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+E:\Flaş Yedek 2\GPSProject\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+E:\Flaş Yedek 2\GPSProject\DataAccess\obj\Debug\net5.0\DataAccess.dll
+E:\Flaş Yedek 2\GPSProject\DataAccess\obj\Debug\net5.0\refint\DataAccess.dll
+E:\Flaş Yedek 2\GPSProject\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+E:\Flaş Yedek 2\GPSProject\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll

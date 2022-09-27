@@ -1,0 +1,75 @@
+C:\Users\karab\Desktop\RentACar\Entities\bin\Debug\net5.0\Entities.deps.json
+C:\Users\karab\Desktop\RentACar\Entities\bin\Debug\net5.0\Entities.dll
+C:\Users\karab\Desktop\RentACar\Entities\bin\Debug\net5.0\ref\Entities.dll
+C:\Users\karab\Desktop\RentACar\Entities\bin\Debug\net5.0\Entities.pdb
+C:\Users\karab\Desktop\RentACar\Entities\bin\Debug\net5.0\Core.dll
+C:\Users\karab\Desktop\RentACar\Entities\bin\Debug\net5.0\Core.pdb
+C:\Users\karab\Desktop\RentACar\Entities\obj\Debug\net5.0\Entities.csproj.AssemblyReference.cache
+C:\Users\karab\Desktop\RentACar\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karab\Desktop\RentACar\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+C:\Users\karab\Desktop\RentACar\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+C:\Users\karab\Desktop\RentACar\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\karab\Desktop\RentACar\Entities\obj\Debug\net5.0\Entities.csproj.CopyComplete
+C:\Users\karab\Desktop\RentACar\Entities\obj\Debug\net5.0\Entities.dll
+C:\Users\karab\Desktop\RentACar\Entities\obj\Debug\net5.0\ref\Entities.dll
+C:\Users\karab\Desktop\RentACar\Entities\obj\Debug\net5.0\Entities.pdb
+C:\Users\383585\Downloads\RentACar\Entities\bin\Debug\net5.0\Entities.deps.json
+C:\Users\383585\Downloads\RentACar\Entities\bin\Debug\net5.0\Entities.dll
+C:\Users\383585\Downloads\RentACar\Entities\bin\Debug\net5.0\Entities.pdb
+C:\Users\383585\Downloads\RentACar\Entities\bin\Debug\net5.0\Core.dll
+C:\Users\383585\Downloads\RentACar\Entities\bin\Debug\net5.0\Core.pdb
+C:\Users\383585\Downloads\RentACar\Entities\obj\Debug\net5.0\Entities.csproj.AssemblyReference.cache
+C:\Users\383585\Downloads\RentACar\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\383585\Downloads\RentACar\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+C:\Users\383585\Downloads\RentACar\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+C:\Users\383585\Downloads\RentACar\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\383585\Downloads\RentACar\Entities\obj\Debug\net5.0\Entities.csproj.CopyComplete
+C:\Users\383585\Downloads\RentACar\Entities\obj\Debug\net5.0\Entities.dll
+C:\Users\383585\Downloads\RentACar\Entities\obj\Debug\net5.0\refint\Entities.dll
+C:\Users\383585\Downloads\RentACar\Entities\obj\Debug\net5.0\Entities.pdb
+C:\Users\383585\Downloads\RentACar\Entities\obj\Debug\net5.0\ref\Entities.dll
+C:\Users\383585\Desktop\GPSProject\Entities\bin\Debug\net5.0\Entities.deps.json
+C:\Users\383585\Desktop\GPSProject\Entities\bin\Debug\net5.0\Entities.dll
+C:\Users\383585\Desktop\GPSProject\Entities\bin\Debug\net5.0\Entities.pdb
+C:\Users\383585\Desktop\GPSProject\Entities\bin\Debug\net5.0\Core.dll
+C:\Users\383585\Desktop\GPSProject\Entities\bin\Debug\net5.0\Core.pdb
+C:\Users\383585\Desktop\GPSProject\Entities\obj\Debug\net5.0\Entities.csproj.AssemblyReference.cache
+C:\Users\383585\Desktop\GPSProject\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\383585\Desktop\GPSProject\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+C:\Users\383585\Desktop\GPSProject\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+C:\Users\383585\Desktop\GPSProject\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\383585\Desktop\GPSProject\Entities\obj\Debug\net5.0\Entities.csproj.CopyComplete
+C:\Users\383585\Desktop\GPSProject\Entities\obj\Debug\net5.0\Entities.dll
+C:\Users\383585\Desktop\GPSProject\Entities\obj\Debug\net5.0\refint\Entities.dll
+C:\Users\383585\Desktop\GPSProject\Entities\obj\Debug\net5.0\Entities.pdb
+C:\Users\383585\Desktop\GPSProject\Entities\obj\Debug\net5.0\ref\Entities.dll
+C:\Users\karab\Desktop\GPSProject\Entities\bin\Debug\net5.0\Entities.deps.json
+C:\Users\karab\Desktop\GPSProject\Entities\bin\Debug\net5.0\Entities.dll
+C:\Users\karab\Desktop\GPSProject\Entities\bin\Debug\net5.0\ref\Entities.dll
+C:\Users\karab\Desktop\GPSProject\Entities\bin\Debug\net5.0\Entities.pdb
+C:\Users\karab\Desktop\GPSProject\Entities\bin\Debug\net5.0\Core.dll
+C:\Users\karab\Desktop\GPSProject\Entities\bin\Debug\net5.0\Core.pdb
+C:\Users\karab\Desktop\GPSProject\Entities\obj\Debug\net5.0\Entities.csproj.AssemblyReference.cache
+C:\Users\karab\Desktop\GPSProject\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karab\Desktop\GPSProject\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+C:\Users\karab\Desktop\GPSProject\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+C:\Users\karab\Desktop\GPSProject\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\karab\Desktop\GPSProject\Entities\obj\Debug\net5.0\Entities.csproj.CopyComplete
+C:\Users\karab\Desktop\GPSProject\Entities\obj\Debug\net5.0\Entities.dll
+C:\Users\karab\Desktop\GPSProject\Entities\obj\Debug\net5.0\ref\Entities.dll
+C:\Users\karab\Desktop\GPSProject\Entities\obj\Debug\net5.0\Entities.pdb
+E:\Flaş Yedek 2\GPSProject\Entities\bin\Debug\net5.0\Entities.deps.json
+E:\Flaş Yedek 2\GPSProject\Entities\bin\Debug\net5.0\Entities.dll
+E:\Flaş Yedek 2\GPSProject\Entities\bin\Debug\net5.0\Entities.pdb
+E:\Flaş Yedek 2\GPSProject\Entities\bin\Debug\net5.0\Core.dll
+E:\Flaş Yedek 2\GPSProject\Entities\bin\Debug\net5.0\Core.pdb
+E:\Flaş Yedek 2\GPSProject\Entities\obj\Debug\net5.0\Entities.csproj.AssemblyReference.cache
+E:\Flaş Yedek 2\GPSProject\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\Flaş Yedek 2\GPSProject\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+E:\Flaş Yedek 2\GPSProject\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+E:\Flaş Yedek 2\GPSProject\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+E:\Flaş Yedek 2\GPSProject\Entities\obj\Debug\net5.0\Entities.csproj.CopyComplete
+E:\Flaş Yedek 2\GPSProject\Entities\obj\Debug\net5.0\Entities.dll
+E:\Flaş Yedek 2\GPSProject\Entities\obj\Debug\net5.0\refint\Entities.dll
+E:\Flaş Yedek 2\GPSProject\Entities\obj\Debug\net5.0\Entities.pdb
+E:\Flaş Yedek 2\GPSProject\Entities\obj\Debug\net5.0\ref\Entities.dll
