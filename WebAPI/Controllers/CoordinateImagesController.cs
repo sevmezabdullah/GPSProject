@@ -43,7 +43,7 @@ namespace WebAPI.Controllers
             return BadRequest(result);
         }
         [HttpPost("getbycoordinateid")]
-        public IActionResult Delete(int coordinateId)
+        public IActionResult GetByCoordinateId(int coordinateId)
         {
             var result = _coordinateImageService.GetByCoordinateId(coordinateId);
             if (result.Success)

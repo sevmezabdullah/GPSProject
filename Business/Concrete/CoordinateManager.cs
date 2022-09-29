@@ -34,7 +34,7 @@ namespace Business.Concrete
         {
             _coordinateDal = coordinateDal;
         }
-        [CacheAspect]
+        //[CacheAspect]
         public IDataResult<Coordinate> GetById(int id)
         {
             return new SuccessDataResult<Coordinate>(_coordinateDal.Get(c => c.Id == id), CoordinateConstants.CoordinateGettedById);

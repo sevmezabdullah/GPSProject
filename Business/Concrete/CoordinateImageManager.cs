@@ -88,7 +88,7 @@ namespace Business.Concrete
         private List<CoordinateImage> GetDefaultImage()
         {
             List<CoordinateImage> coordinateImage = new List<CoordinateImage>();
-            coordinateImage.Add(new CoordinateImage { ImagePath = "DefaultImage.png" });
+            coordinateImage.Add(new CoordinateImage { ImagePath = "http://localhost:46858/Uploads/Images/DefaultImage.jpg" });
             return coordinateImage;
         }
 
